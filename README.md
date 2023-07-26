@@ -1,6 +1,6 @@
-#                                                Sales Analysis With Python & Pandas
+# Sales Analysis With Python & Pandas
 
-# Objective: Data Manipulation and exploring with Pandas.
+## Objective: Data Manipulation and exploring with Pandas.
 # Technique used:
 I use Python Pandas & Python to analyze and answer business questions about SuperStore of sales data.
 Seaborn, pandas, matplotlib
